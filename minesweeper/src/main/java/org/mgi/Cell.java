@@ -1,3 +1,5 @@
+package org.mgi;
+
 public class Cell {
 
 	private int minesAround;

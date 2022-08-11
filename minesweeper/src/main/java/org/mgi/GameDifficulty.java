@@ -1,3 +1,5 @@
+package org.mgi;
+
 /* The game difficulty determines how many mines
  * are on the grid and the dimensions of the grid.
  */
